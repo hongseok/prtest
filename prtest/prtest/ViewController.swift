@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         print("Added by hongseok")
     }
 
-
+    func test() {
+        print("test")
+    }
+    
 }
 
